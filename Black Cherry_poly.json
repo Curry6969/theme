@@ -13,67 +13,67 @@
             "#FFFFFF"
         ],
         "BACKGROUND_PRIMARY": [
-            "#FF270401",
-            "#FF270401"
+            "#270402",
+            "#FFFFFF"
         ],
         "BACKGROUND_SECONDARY": [
-            "#FF3E0E0E",
-            "#FF3E0E0E"
+            "#3C0C0C",
+            "#FFFFFF"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#FF270401",
-            "#FF270401"
+            "#3C0C0C",
+            "#FFFFFF"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000",
+            "#3C0C0C",
             "#FFFFFF"
         ],
         "BACKGROUND_ACCENT": [
-            "#000000",
+            "#3C0C0C",
             "#FFFFFF"
         ],
         "BACKGROUND_FLOATING": [
-            "#000000",
+            "#270402",
             "#FFFFFF"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#000000",
+            "#3C0C0C",
             "#FFFFFF"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000",
+            "#3C0C0C",
             "#FFFFFF"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000",
+            "#270402",
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000",
+            "#270402",
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#000000",
+            "#270402",
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#000000",
+            "#270402",
             "#FFFFFF"
         ],
         "CHANNELS_DEFAULT": [
-            "#000000",
+            "#270402",
             "#FFFFFF"
         ],
         "HEADER_PRIMARY": [
-            "#000000",
+            "#270402",
             "#FFFFFF"
         ],
         "HEADER_SECONDARY": [
-            "#000000",
+            "#270402",
             "#FFFFFF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#000000",
+            "#3E0E0E",
             "#FFFFFF"
         ],
         "INTERACTIVE_MUTED": [
@@ -116,7 +116,6 @@
     },
     "background": {
         "blur": "1",
-        "url": "https://i.imgur.com/sEkjODE.jpeg",
         "alpha": "0.69"
     },
     "spec": 2
